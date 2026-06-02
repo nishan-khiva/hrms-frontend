@@ -120,7 +120,7 @@ const AddEmployee = () => {
 
             {/* Header */}
             <div className="mb-6">
-                <h1 className="text-3xl font-bold text-slate-800">
+                <h1 className="text-3xl font-semibold text-slate-800">
                     {id ? "Edit Employee" : "Add Employee"}
                 </h1>
 
